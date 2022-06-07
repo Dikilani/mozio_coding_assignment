@@ -6,6 +6,7 @@ certifi==2022.5.18.1
 charset-normalizer==2.0.12
 Django==4.0.5
 djangorestframework==3.13.1
+djangorestframework-gis==1.0
 firebase==3.0.1
 firebase-admin==5.2.0
 fireo==1.5.0
